@@ -2,9 +2,6 @@
 
 reference: [Solving a VueJS Interview Problem (Creating a SPA)](https://www.youtube.com/watch?v=Ez5_CITkg24) by [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 
-To execute run
-`yarn serve`
-
 ## Project setup
 ```
 yarn install
